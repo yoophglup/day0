@@ -1,4 +1,4 @@
-# day0
+
 Day 0
 
 This repository is used to host FizzBuzz with Junit testing. Junit allows us to test our application using unit testing. This allows the developer to create test by specifying variables, calling methods, and checking calculations. This is helpful because it allows the developer to test the code without implicitly changing the code. This allows the test to be tested by multiple developers without having to add and remove testing code.
